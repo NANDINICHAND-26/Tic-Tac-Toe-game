@@ -1,5 +1,4 @@
-# Tic-Tac-Toe-game
-Tic Tac Toe Game in C programming language
+
 #include<stdio.h>
 void check(char,char);
 char a[9]={'1','2','3','4','5','6','7','8','9'};
